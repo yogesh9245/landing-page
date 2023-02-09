@@ -1,4 +1,5 @@
 # landing-page
+*Entire code is in the master branch*
 This is basically a frontend project which is used to design a landing page for a digital marketing company.
 This entire project is built in React Js and tailwind css.
 Following are the steps to run this project -:
